@@ -1,0 +1,154 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Quantico" href="https://fonts.googleapis.com/css2?family=Quantico" />
+    <mj-attributes>
+    <mj-text font-family="calibri, san-serif" font-size="19px" align="center" line-height="24px" color="#c6e1e6" padding="0px" />
+    <mj-image padding="0px"/>
+    <mj-button background-color="#c6e1e6" font-size="15px" color="#000000" font-family="Calibri, san-serif"  border-radius="20px" height="20px" width="120px"/>
+    <mj-section padding="0px"/>
+    <mj-class name="head-text" font-size="48px" line-height="69px" text-transform="uppercase"/>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="black">
+  <!-- img header -->
+<mj-section>
+    <mj-column width="600px">
+        <mj-image src="https://www.apple.com/dm/us/22/27C23552-BBCE-48F1-985F-8934E86B0418/i/hero_2x.jpg" alt="" />
+    </mj-column>
+</mj-section>
+<!-- invitation section -->
+    <mj-section>
+        <mj-column width="600px">
+    <mj-text padding-top="25px" padding-left="25px" padding-right="25px">
+        Get ready for June 6 at 10:00 a.m. PT, when WWDC22 gathers the developer
+community for an exciting online experience. Here’s what’s ahead.
+    </mj-text>
+    <mj-text padding-top="25px">
+        Scroll down for more.
+    </mj-text>
+        </mj-column>
+    </mj-section>
+<!-- detail section 1 -->
+<mj-section>
+    <mj-column padding-top="30px" width="300px">
+        <mj-image width="65px" src="https://www.apple.com/dm/us/22/27C23552-BBCE-48F1-985F-8934E86B0418/i/m_icon_keynote_2x.png" alt="" />
+        <mj-text padding-top="20px" font-size="24px" font-weight="600">
+            Apple Keynote
+        </mj-text>
+        <mj-text font-size="14px" font-weight="400" padding-top="15px"padding-left="55px" padding-right="55px">
+            Preview the latest Apple
+software and technologies.
+June 6 at 10:00 a.m. PT.
+        </mj-text>
+    </mj-column>
+    <mj-column padding-top="30px" width="300px">
+        <mj-image width="65px" src="https://www.apple.com/dm/us/22/27C23552-BBCE-48F1-985F-8934E86B0418/i/m_icon_sotu_2x.png" alt="" />
+        <mj-text padding-top="20px" font-size="24px" font-weight="600">
+            Platforms
+        </mj-text>
+        <mj-text padding-top="5px" font-size="24px" font-weight="600">
+State of the Union
+        </mj-text>
+        <mj-text padding-top="15px" font-size="14px" font-weight="400" padding-left="35px" padding-right="40px">
+            Dive into the newest advancements on
+Apple platforms. June 6 at 1:00 p.m. PT.
+        </mj-text>
+    </mj-column>
+</mj-section>
+<!-- detail section 2 -->
+<mj-section>
+    
+    <mj-column padding-top="30px" width="300px">
+        <mj-image width="65px" src="https://www.apple.com/dm/us/22/27C23552-BBCE-48F1-985F-8934E86B0418/i/m_icon_video_2x.png" alt="" />
+        <mj-text padding-top="20px" font-size="24px" font-weight="600">
+            Sessions
+        </mj-text>
+        <mj-text font-size="14px" font-weight="400" padding-top="15px"padding-left="45px" padding-right="45px">
+            Learn about our latest updates to
+            help you create the most innovative
+a           pps and games in the world.
+        </mj-text>
+    </mj-column>
+    <mj-column padding-top="30px" width="300px">
+        <mj-image width="65px" src="https://www.apple.com/dm/us/22/27C23552-BBCE-48F1-985F-8934E86B0418/i/m_icon_experts_2x.png" alt="" />
+        <mj-text padding-top="20px" font-size="24px" font-weight="600">
+            Access to experts
+        </mj-text>
+        <mj-text font-size="14px" font-weight="400" padding-top="15px"padding-left="45px" padding-right="45px">
+            Request one-on-one consultations
+            for technical, design, marketing,
+            and business guidance.
+        </mj-text>
+    </mj-column>
+</mj-section>
+<!-- detail section 3 -->
+<mj-section>
+    
+    <mj-column padding-top="30px" width="300px">
+        <mj-image width="65px" src="https://www.apple.com/dm/us/22/27C23552-BBCE-48F1-985F-8934E86B0418/i/m_icon_awards_2x.png" alt="" />
+        <mj-text padding-top="20px" font-size="24px" font-weight="600">
+           Apple Design Awards
+        </mj-text>
+        <mj-text font-size="14px" font-weight="400" padding-top="15px"padding-left="45px" padding-right="45px">
+            Celebrate the creative artistry and technical achievement of peers in the developer community. June 6 at 5:00 p.m. PT.
+        </mj-text>
+    </mj-column>
+    <mj-column padding-top="22px" width="300px">
+        <mj-image width="65px" src="https://www.apple.com/dm/us/22/27C23552-BBCE-48F1-985F-8934E86B0418/i/m_icon_topics_2x.png" alt="" />
+        <mj-text padding-top="20px" font-size="24px" font-weight="600">
+            Connect with community
+        </mj-text>
+        <mj-text font-size="14px" font-weight="400" padding-top="15px"padding-left="35px" padding-right="35px">
+            Apple and developers come together to
+            explore, learn, and celebrate through
+            Digital Lounges, interactive coding and design challenges, activities, and more.
+        </mj-text>
+    </mj-column>
+</mj-section>
+<!-- detail section 4 -->
+<mj-section>
+    
+    <mj-column padding-top="22px" width="300px">
+        <mj-image width="65px" src="https://www.apple.com/dm/us/22/27C23552-BBCE-48F1-985F-8934E86B0418/i/m_icon_download_2x.png" alt="" />
+        <mj-text padding-top="20px" font-size="24px" font-weight="600">
+            Download the app
+        </mj-text>
+        <mj-text font-size="14px" font-weight="400" padding-top="15px"padding-left="40px" padding-right="40px">
+            Explore all things WWDC in the
+            Apple Developer app and stay up
+            to date with notifications.
+        </mj-text>
+    </mj-column>
+</mj-section>
+<!-- button -->
+<mj-section padding-top="25px">
+    <mj-column width="600px">
+        <mj-button href="www.google.com">
+            Learn more
+        </mj-button>
+        <mj-text padding-top="15px" font-size="12px" color="#86868b">
+            TM and © 2022 Apple Inc. One Apple Park Way, MS 96-DM, Cupertino, CA 95014.
+        </mj-text>
+        <mj-table padding-top="5px" align="center" width="65%" font-size="10px" color="#86868b" font-weight="400">
+            <tr>
+                <th style="">All Rights Reserved</th>
+                <th style="border-left:1px solid #86868b; border-right:1px solid #86868b"> Privacy Policy</th>
+                <th style="">Broadcast Policy</th>
+            </tr>
+        </mj-table>
+        <mj-text padding-top="0px" font-size="12px" color="#86868b">
+            <mj-text padding-top="15px" font-size="12px" color="#86868b">
+            If you prefer not to receive email from Apple Developer, please click <a style="text-decoration:none; color:#86868b" href="www.google.com">here.
+        </mj-text>
+    </mj-column>
+</mj-section>
+<!-- footer 1 -->
+<!-- <mj-section>
+<mj-column width="400px">
+    <mj-column width="">
+        
+    </mj-column>
+</mj-column>
+</mj-section> -->
+  </mj-body>
+</mjml>
