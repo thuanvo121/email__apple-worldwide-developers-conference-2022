@@ -123,32 +123,17 @@ a           pps and games in the world.
 <!-- button -->
 <mj-section padding-top="25px">
     <mj-column width="600px">
-        <mj-button href="www.google.com">
+        <mj-button href="https://www.google.com/" target="blank">
             Learn more
         </mj-button>
         <mj-text padding-top="15px" font-size="12px" color="#86868b">
-            TM and © 2022 Apple Inc. One Apple Park Way, MS 96-DM, Cupertino, CA 95014.
-        </mj-text>
-        <mj-table padding-top="5px" align="center" width="65%" font-size="10px" color="#86868b" font-weight="400">
-            <tr>
-                <th style="">All Rights Reserved</th>
-                <th style="border-left:1px solid #86868b; border-right:1px solid #86868b"> Privacy Policy</th>
-                <th style="">Broadcast Policy</th>
-            </tr>
-        </mj-table>
-        <mj-text padding-top="0px" font-size="12px" color="#86868b">
+            TM and © 2022 Apple Inc. One Apple Park Way, MS 96-DM, Cupertino, CA 95014<br>
+        
             <mj-text padding-top="15px" font-size="12px" color="#86868b">
-            If you prefer not to receive email from Apple Developer, please click <a style="text-decoration:none; color:#86868b" href="www.google.com">here.
+            If you prefer not to receive email from Apple Developer, please click <a href="https://www.google.com/" target="blank" style="text-decoration:none; color:#86868b" href="www.google.com">here.
         </mj-text>
     </mj-column>
 </mj-section>
-<!-- footer 1 -->
-<!-- <mj-section>
-<mj-column width="400px">
-    <mj-column width="">
-        
-    </mj-column>
-</mj-column>
-</mj-section> -->
+
   </mj-body>
 </mjml>
